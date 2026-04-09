@@ -2,6 +2,6 @@ streamlit
 numpy
 pandas
 scikit-learn
-matplotlib
-streamlit-drawable-canvas
-opencv-python-headless
+opencv
+python 
+pickle
